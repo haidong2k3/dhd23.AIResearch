@@ -1,4 +1,4 @@
-DHD23 (mar 27, 2026)
+DHD23
 
 - Project gồm các model nhỏ, thử nghiệm, luyện tay
 - Không push data, chỉ push code và model
