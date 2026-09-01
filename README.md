@@ -1,9 +1,8 @@
-# DHD23 — AI Research & Projects
+# DHD23 — AI Research
 
 A personal repository for studying, experimenting with, and implementing concepts in **Artificial Intelligence, Machine Learning, Deep Learning, and related fields**.
 
 The repository contains small projects, experiments, implementations, notes, and research-oriented work developed throughout my learning journey.
-
 ---
 
 ## Overview
@@ -19,3 +18,6 @@ This repository is primarily used for:
 - Maintaining reusable implementations and experimental code
 
 The main focus is **learning by implementation and experimentation** rather than maintaining production-ready software.
+---
+
+AGI
