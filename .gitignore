@@ -1,3 +1,10 @@
 # system
 .DS_Store
 
+# IDE
+.vs
+
+# python environment
+.python-version
+.venv/
+.vscode/
